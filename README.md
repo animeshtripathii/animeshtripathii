@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  As an enthusiastic frontend developer pursuing my BTech degree in India, I’m deeply committed to diving into the diverse realms of technology. Here’s a quick snapshot of my skills and interest</h3>
+<h3 align="left">👩‍💻  As an enthusiastic problem solver pursuing my BTech degree in India, I’m deeply committed to diving into the diverse realms of technology. Here’s a quick snapshot of my skills and interest</h3>
 
 ###
 
