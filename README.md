@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Hi+👋+I'm+Animesh+Tripathi;Full+Stack+Developer;Tech+Enthusiast+%26+Innovator!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Animesh+Tripathi;Full+Stack+Developer;Tech+Enthusiast+%26+Innovator!" alt="Typing Animation" />
 
 </div>
 
@@ -177,16 +177,17 @@ Full-stack MERN app with AI crop recommendations, weather forecasts, & soil heal
 </td>
 <td width="50%" align="center">
 
-### 🛍️ Product Store
-**E-Commerce Web Application**
+### 🌞 EcoPower-Hub
+**Renewable Energy Platform**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Weather](https://img.shields.io/badge/OpenWeather-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white)
 
-Modern product browsing with search, pagination & history tracking
+Interactive renewable energy explorer with weather maps, location finder & cost calculator
 
-[View Project →](https://github.com/animeshtripathii/MiniProject)
+[View Project →](https://github.com/animeshtripathii/EcoPower-hub)
 
 </td>
 </tr>
@@ -204,7 +205,7 @@ Modern product browsing with search, pagination & history tracking
 
 ## 💭 Developer Wisdom
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%93+John+Johnson;%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%93+Linus+Torvalds;%E2%80%9CCode+is+like+humor.+When+you+explain+it%2C+it%E2%80%99s+bad.%E2%80%9D+%E2%80%93+Cory+House;%E2%80%9CThe+best+error+message+never+shows+up.%E2%80%9D+%E2%80%93+Thomas+Fuchs;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%93+Austin+Freeman;%E2%80%9CAny+fool+can+write+code+a+computer+can+understand.%E2%80%9D+%E2%80%93+Martin+Fowler" alt="Dev Quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=First+solve+the+problem.+Then+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Code+is+like+humor.+When+you+explain+it+its+bad.;The+best+error+message+never+shows+up.;Simplicity+is+the+soul+of+efficiency.;Any+fool+can+write+code+a+computer+can+understand." alt="Dev Quotes" />
 
 </div>
 
@@ -248,7 +249,7 @@ Modern product browsing with search, pagination & history tracking
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Thanks+for+visiting!+⭐;Happy+Coding!+💻;Let's+build+something+amazing!+🚀" alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Thanks+for+visiting!+%E2%AD%90;Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer Animation" />
 
 <br/><br/>
 
