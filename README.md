@@ -177,17 +177,17 @@ Full-stack MERN app with AI crop recommendations, weather forecasts, & soil heal
 </td>
 <td width="50%" align="center">
 
-### 🌞 EcoPower-Hub
-**Renewable Energy Platform**
+### 💻 CodePrep
+**Collaborative Coding Platform**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Weather](https://img.shields.io/badge/OpenWeather-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Interactive renewable energy explorer with weather maps, location finder & cost calculator
+Full-stack MERN platform with secure AWS online judge, real-time Socket.io rooms & Gemini AI compiler assistant.
 
-[View Project →](https://github.com/animeshtripathii/EcoPower-hub)
+[View Project →](https://github.com/animeshtripathii/CodePrep)
 
 </td>
 </tr>
