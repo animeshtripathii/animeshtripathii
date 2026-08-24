@@ -1,0 +1,15 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values (0-100). 5-8 axes reads best. Edited for Animesh Tripathi.",
+  "axes": [
+    { "label": "JavaScript",  "value": 90 },
+    { "label": "TypeScript",  "value": 82 },
+    { "label": "React.js",    "value": 88 },
+    { "label": "Node / API",  "value": 85 },
+    { "label": "Databases",   "value": 80 },
+    { "label": "Python",      "value": 72 },
+    { "label": "Cloud / CI",  "value": 70 },
+    { "label": "Problem Solving", "value": 83},
+    { "label": "Generative AI", "value": 70}
+  ]
+}

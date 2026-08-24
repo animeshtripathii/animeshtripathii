@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos in README order. Star, fork, and language counts come live from GitHub on every run.",
+  "projects": [
+    {
+      "repo": "AgroAI",
+      "description": "MERN agricultural intelligence platform powered by Gemini AI and Python ML with predictive crop analytics and soil diagnostics."
+    },
+    {
+      "repo": "CodePrep",
+      "description": "High-performance online judge and collaborative coding platform with sandboxed code execution and real-time rooms."
+    },
+    {
+      "repo": "SynthesisAi",
+      "description": "Zero-cost embedding RAG system built with Express.js, LangChain, Qdrant Cloud, Groq, Upstash Redis, and React."
+    },
+    {
+      "repo": "SmartEdu",
+      "description": "AI-powered MERN adaptive learning platform featuring role-based dashboards, skill extraction, and real-time collaboration."
+    }
+  ]
+}

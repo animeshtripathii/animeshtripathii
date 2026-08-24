@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Animesh Tripathi — Profile Assets Preview</title>
+  <style>
+    :root { color-scheme: dark; }
+    body {
+      background: #0d1117;
+      color: #c9d1d9;
+      font: 15px/1.5 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 24px;
+      color: #39d353;
+      letter-spacing: .02em;
+      margin-top: 0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    p.subtitle {
+      color: #8b949e;
+      font-size: 14px;
+      margin-bottom: 30px;
+    }
+    h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      color: #8b949e;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 8px;
+      margin: 44px 0 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .row {
+      display: flex;
+      gap: 28px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+    }
+    .card {
+      background: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 18px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+    .card.light {
+      background: #ffffff;
+      border-color: #d0d7de;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .tag {
+      font: 11px ui-monospace, SFMono-Regular, Consolas, monospace;
+      color: #8b949e;
+      display: block;
+      margin-bottom: 12px;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    button {
+      background: #21262d;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 5px 12px;
+      font: inherit;
+      font-size: 12px;
+      cursor: pointer;
+      vertical-align: middle;
+      text-transform: none;
+      letter-spacing: 0;
+      transition: all 0.2s ease;
+    }
+    button:hover {
+      background: #30363d;
+      border-color: #39d353;
+      color: #39d353;
+    }
+    .missing {
+      color: #8b949e;
+      font-style: italic;
+      font-size: 13px;
+      padding: 20px;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>⚡ Animesh Tripathi — Profile Assets Preview</h1>
+  <p class="subtitle">Each asset is displayed against both dark and light modes, exactly as rendered on your GitHub profile.</p>
+
+  <h2>
+    Portrait
+    <button id="replay">Replay Dot-Matrix Scan</button>
+  </h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/portrait.svg (Dark mode)</span>
+      <img class="portrait" src="assets/portrait.svg" width="300" alt="Portrait dark" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'missing',textContent:'not generated yet — run dotify.py'}))">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">assets/portrait.svg (Light mode)</span>
+      <img class="portrait" src="assets/portrait.svg" width="300" alt="Portrait light" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'missing',textContent:'not generated yet'}))">
+    </div>
+  </div>
+
+  <h2>Skill Radar (Self-Rated from assets/skills.json)</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/radar-dark.svg</span>
+      <img src="assets/radar-dark.svg" width="440" alt="Skill radar dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">assets/radar-light.svg</span>
+      <img src="assets/radar-light.svg" width="440" alt="Skill radar light">
+    </div>
+  </div>
+
+  <h2>Language Radar (Calculated Live from GitHub API)</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/radar-langs-dark.svg</span>
+      <img src="assets/radar-langs-dark.svg" width="440" alt="Language radar dark" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'missing',textContent:'Run python scripts/radar.py --github animeshtripathii'}))">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">assets/radar-langs-light.svg</span>
+      <img src="assets/radar-langs-light.svg" width="440" alt="Language radar light" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'missing',textContent:'not generated yet'}))">
+    </div>
+  </div>
+
+  <h2>GitHub Stat Card</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">assets/card-stats-dark.svg</span>
+      <img src="assets/card-stats-dark.svg" width="480" alt="Stats card dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">assets/card-stats-light.svg</span>
+      <img src="assets/card-stats-light.svg" width="480" alt="Stats card light">
+    </div>
+  </div>
+
+  <h2>Project Cards (assets/projects.json)</h2>
+  <div class="row">
+    <div class="card">
+      <span class="tag">card-AgroAI-dark.svg</span>
+      <img src="assets/card-AgroAI-dark.svg" width="420" alt="AgroAI card dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">card-AgroAI-light.svg</span>
+      <img src="assets/card-AgroAI-light.svg" width="420" alt="AgroAI card light">
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 20px;">
+    <div class="card">
+      <span class="tag">card-CodePrep-dark.svg</span>
+      <img src="assets/card-CodePrep-dark.svg" width="420" alt="CodePrep card dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">card-CodePrep-light.svg</span>
+      <img src="assets/card-CodePrep-light.svg" width="420" alt="CodePrep card light">
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 20px;">
+    <div class="card">
+      <span class="tag">card-SynthesisAi-dark.svg</span>
+      <img src="assets/card-SynthesisAi-dark.svg" width="420" alt="SynthesisAi card dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">card-SynthesisAi-light.svg</span>
+      <img src="assets/card-SynthesisAi-light.svg" width="420" alt="SynthesisAi card light">
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 20px;">
+    <div class="card">
+      <span class="tag">card-SmartEdu-dark.svg</span>
+      <img src="assets/card-SmartEdu-dark.svg" width="420" alt="SmartEdu card dark">
+    </div>
+    <div class="card light">
+      <span class="tag" style="color:#57606a">card-SmartEdu-light.svg</span>
+      <img src="assets/card-SmartEdu-light.svg" width="420" alt="SmartEdu card light">
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('replay').onclick = () => {
+      document.querySelectorAll('img.portrait').forEach(img => {
+        const baseSrc = img.src.split('?')[0];
+        img.src = baseSrc + '?' + Date.now();
+      });
+    };
+  </script>
+</body>
+</html>
