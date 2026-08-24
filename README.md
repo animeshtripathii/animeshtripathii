@@ -10,8 +10,9 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/animeshtripathii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Animesh+Tripathi;Full+Stack+Developer;Building+Scalable+Apps+%26+AI+Tools;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Animesh+Tripathi;Full+Stack+Developer;Building+Scalable+Apps+%26+AI+Tools;Tech+Enthusiast+%26+Innovator!" alt="typing banner">
 </a>
+
 
 <br>
 
@@ -195,6 +196,6 @@ Hi, I'm **Animesh Tripathi**. I build full-stack web applications, scalable deve
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>💡 Open to collaborations & exciting projects · Happy Coding! 🚀</sub>
 
 </div>
